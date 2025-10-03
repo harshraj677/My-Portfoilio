@@ -219,7 +219,7 @@ If you encounter any issues, please:
 
 ### **⭐ Don't forget to star this repository if you find it helpful!**
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Harsh Raj Gupta]**
 
 [![Website](https://img.shields.io/badge/🚀_Live_Site-Visit_Success-brightgreen?style=for-the-badge)](https://yourportfolio.com)
 
