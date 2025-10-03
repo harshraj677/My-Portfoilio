@@ -2,7 +2,6 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript. Features a clean design, smooth animations, and mobile-friendly layout to showcase professional work and skills.
 
-![Portfolio Preview](https://via.placeholder.com/1200x600/2D3748/FFFFFF?text=John+Doe+Portfolio)
 
 ## 📋 Project Structure
 
